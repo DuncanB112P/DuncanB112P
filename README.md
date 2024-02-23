@@ -18,7 +18,7 @@ Find out more about me & feel free to connect with me here:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform{LOGO-NAME}&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform{LOGO-NAME}&logoColor=white)
 
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
