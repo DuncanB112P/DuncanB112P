@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-Recovering academic historian, combat vet, and Star Wars superfan attempting to make his way into Cloud Engineering and DevOps. Currently 2x AWS certified, learning more about Python, with an eye on future DevSecOps opportunities.
+Recovering academic historian, combat vet, and Star Wars superfan tuned Cloud Engineering and DevOps. Currently 2x AWS certified with core competencies in Infrastructure as Code, CI/CD, containerization, scripting, IAM management, and more. Long term goals aimed at DevOps and DevSecOps opportunities.
 
 Find out more about me & feel free to connect with me here:
 
